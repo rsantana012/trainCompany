@@ -1,6 +1,7 @@
-
+<!DOCTYPE html>
 <html>
 <head>
+        <meta charset="utf-8">
         <title>Company</title>
     <style>
         table,td,tr,th { border:3px solid black;
@@ -43,7 +44,7 @@
          <div class="container">
         <div class="row align-items-end">
         <div class="col">
-            <a class="navbar-brand" href="#">Help</a>
+            <a class="navbar-brand" href="#https://github.com/rsantana012/trainCompany.git">Help</a>
         </div>
         </div>
         </div>
